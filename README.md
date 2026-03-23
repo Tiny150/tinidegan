@@ -1,4 +1,3 @@
-# tinidegan
 # Hi, I'm Tini Degan 👋
 
 🎯 Hydrology student specialized in ecohydrology  
