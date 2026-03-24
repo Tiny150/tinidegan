@@ -1,5 +1,12 @@
 # Hi, I'm Tini Degan 👋
+<p align="center">
+  <img src="cnao2.jpg" width="140" style="border-radius:50%">
+</p>
 
+<h2 align="center">Tini Degan</h2>
+<p align="center">
+Hydrology x AI | Building intelligent systems for water monitoring 🌍
+</p>
 🎯 Hydrology student specialized in ecohydrology  
 🤖 Passionate about Artificial Intelligence & Data Science  
 🌍 Building solutions for water quality monitoring  
