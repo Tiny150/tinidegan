@@ -1,6 +1,6 @@
 # Hi, I'm Tini Degan 👋
 <p align="center">
-  <img src="cnao_2.jpg" width="160" style="border-radius:50%">
+  <img src="cnao_2.jpg" width="200" style="border-radius:50%">
 </p>
 
 <h2 align="center">Tini Degan</h2>
